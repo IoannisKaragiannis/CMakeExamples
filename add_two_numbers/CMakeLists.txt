@@ -45,4 +45,4 @@ target_include_directories(
 # $ cmake ../
 # After creating the respective files successfully under the build directory 
 # $ make
-# ./add_two_numbers
+# $ ./add_two_numbers
