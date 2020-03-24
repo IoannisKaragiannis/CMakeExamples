@@ -1,2 +1,2 @@
 # CMakeExamples
-Familiarize myself with CMake files
+Familiarize myself with CMake files. 
